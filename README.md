@@ -8,7 +8,7 @@
 - 🔭 Currently working on: **Hotel Booking Web App (React + PHP API)**  
 - 🌱 Currently learning: **API Integration, RESTful Services, and Laravel**  
 - 💬 Ask me about: **JavaScript, React, PHP, or System Design**  
-- 📫 Contact me: [mivzzajaa@gmail.com](mailto:mivzzajaa@gmail.com)  
+- 📫 Contact me: <a href="mailto:mivzzajaa@gmail.com">mivzzajaa@gmail.com</a>  
 - ⚡ Fun fact: *I'm probably debugging... or breaking things trying to fix them 😅*
 
 ---
@@ -40,7 +40,7 @@
   <a href="https://www.linkedin.com/in/mimif-miftahuddin-a54b16290?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge" />
   </a>
-  <a href="emailto:mivzzajaa@gmail.com">
+  <a href="mailto:mivzzajaa@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://instagram.com/yourusername" target="_blank">
