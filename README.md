@@ -37,7 +37,7 @@
 
 ### 📫 Let’s Connect!
 <p align="left">
-  <a href="[https://linkedin.com/in/your-link](https://www.linkedin.com/in/mimif-miftahuddin-a54b16290?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge" /></a>
+  <a href="https://linkedin.com/in/your-link" target="[_blank](https://www.linkedin.com/in/mimif-miftahuddin-a54b16290?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge" /></a>
   <a href="mailto:mimif@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://instagram.com/yourusername" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
 </p>
