@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Mimif Miftahuddin</h1>
+<h1 align="center">Hi 👋, I'm Mimif Miftahudin</h1>
 <h3 align="center">A passionate Tech Enthusiast and Web Developer from Indonesia</h3>
 
 <p align="center">
@@ -8,7 +8,7 @@
 - 🔭 I’m currently working on **a Hotel Booking Web App (React + PHP API)**  
 - 🌱 I’m currently learning **API integration, RESTful services, and Laravel**  
 - 💬 Ask me about **JavaScript, React, PHP, or System Design**  
-- 📫 How to reach me: **mivzzajaa@gmail.com**  
+- 📫 How to reach me: **mimif@example.com**  
 - ⚡ Fun fact: *I'm probably debugging right now... or making it worse 😅*
 
 ---
@@ -37,7 +37,7 @@
 
 ### 📫 Let’s Connect!
 <p align="left">
-  <a href="https://linkedin.com/in/your-link" target="_blank"><img src="[https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge]      https://www.linkedin.com/in/mimif-miftahuddin-a54b16290?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app" /></a>
-  <a href="mailto:mivzzajaa@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/your-link" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge" /></a>
+  <a href="mailto:mimif@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://instagram.com/yourusername" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
 </p>
