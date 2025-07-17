@@ -56,10 +56,4 @@
 
 ### 💡 Quote of the Day
 
-<p align="center">
-  <em>"Believe you can and you're halfway there." - Theodore Roosevelt</em>
-</p>
-
-<p align="center">
-  <img src="https://media.giphy.com/media/l2JHRhAtnJSDNJ2py/giphy.gif" width="200" alt="Coding loop gif" />
-</p>
+<p align="center"> "Believe you can and you're halfway there." - Theodore Roosevelt </p> <p align="center"> <img src="https://media.giphy.com/media/fAnEC88LccN7a/giphy.gif" width="250" alt="Funny coding GIF" /> </p>
