@@ -35,6 +35,16 @@
 
 ---
 
+---
+
+### 🐍 GitHub Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/rifki123-cell/github-snake/output/github-contribution-grid-snake.svg" />
+</p>
+
+---
+
 ### 📫 Let’s Connect!
 <p align="left">
   <a href="https://www.linkedin.com/in/mimif-miftahuddin-a54b16290?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app" target="_blank">
