@@ -37,19 +37,6 @@
 
 ---
 
-### 🎯 Featured Projects
-
-| Project | Description |
-|--------|-------------|
-| 🎨 [*Kostum Store*](https://github.com/mivzzajaa-cell/kostum-store) | Web toko kostum lengkap dengan cart, animasi, dan admin dashboard |
-| 🛒 [*Kasir Web App*](https://github.com/mivzzajaa-cell/kasir-app) | Aplikasi kasir berbasis React + PHP |
-| 🤖 [*Arduino Smart Sorter*](https://github.com/mivzzajaa-cell/arduino-sorter) | Proyek sorting buah otomatis pakai warna + berat |
-
----
-
-
----
-
 ### 🐍 GitHub Contribution Snake
 
 <p align="center">
@@ -69,4 +56,12 @@
   <a href="https://instagram.com/111mpss" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
+</p>
+
+### 💬 Quote of the Day
+
+> “Believe you can and you're halfway there” . - Theodore Roosevelt
+
+<p align="center">
+  <img src="https://media.giphy.com/media/l2JHRhAtnJSDNJ2py/giphy.gif" width="200" alt="Code loop GIF" />
 </p>
