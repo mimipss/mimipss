@@ -37,10 +37,23 @@
 
 ---
 
+### 🎯 Featured Projects
+
+| Project | Description |
+|--------|-------------|
+| 🎨 [*Kostum Store*](https://github.com/mivzzajaa-cell/kostum-store) | Web toko kostum lengkap dengan cart, animasi, dan admin dashboard |
+| 🛒 [*Kasir Web App*](https://github.com/mivzzajaa-cell/kasir-app) | Aplikasi kasir berbasis React + PHP |
+| 🤖 [*Arduino Smart Sorter*](https://github.com/mivzzajaa-cell/arduino-sorter) | Proyek sorting buah otomatis pakai warna + berat |
+
+---
+
+
+---
+
 ### 🐍 GitHub Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/rifki123-cell/github-snake/output/github-contribution-grid-snake.svg" />
+  <img src="https://raw.githubusercontent.com/mivzz444-cell/github-snake/output/github-contribution-grid-snake.svg" />
 </p>
 
 ---
