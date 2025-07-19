@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mimif Miftahuddin</h1>
-<h3 align="center">🚀 Tech Enthusiast | 💻 Web Developer | 🌍 From Indonesia</h3>
+<h3 align="center">🚀 IoT Engineer | 💻 Web Developer | 🌍 From Indonesia</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=mimipss&label=Profile%20views&color=0e75b6&style=flat-square" alt="Profile Views" />
