@@ -21,7 +21,7 @@
 ### 🛠 Tech Stack & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,react,php,laravel,mysql,nodejs,html,css,tailwind,git,github,vscode,arduino" />
+  <img src="https://skillicons.dev/icons?i=js,react,php,python,mysql,nodejs,html,css,tailwind,git,github,vscode,arduino" />
 </p>
 
 ---
@@ -50,9 +50,6 @@
   </a>
   <a href="https://instagram.com/111mpss" target="_blank">
     <img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
-  <a href="mailto:mivzzajaa@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
 
